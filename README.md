@@ -3,11 +3,11 @@
 
 <center>
   
-|      *main DSP process*     |
+|       *main DSP process*      |
 |:-----------------------------:|
 | ![Process](media/process.svg) |
 
-|                   Pedal layout                  |         *possible future* Module layout          |
+|           Pedal layout *current status*         |            Eurorack Module *concept*             |
 |-------------------------------------------------|--------------------------------------------------|
 | <img src="media/pedal_layout.png" height="600"> | <img src="media/module_layout.png" height="600"> |
 
